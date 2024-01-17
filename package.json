@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "joi": "^17.4.0",
+    "mongoose": "^5.12.10",
+    "nodemailer": "^6.6.0",
+    "nodemon": "^3.0.2"
+  }
+}
